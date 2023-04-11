@@ -578,7 +578,7 @@ margin-top: 18px;
 }
 
 .form_row input::placeholder{
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .form_row label{
@@ -598,7 +598,7 @@ margin-top: 18px;
 }
 
 .input_Message{
-    padding: 10px 10px 100px;
+    padding: 10px 10px 240px;
     width: 87vh;
     border: none;
     border-radius: 10px;
@@ -624,7 +624,7 @@ margin-top: 18px;
 }
 
 .form_col input::placeholder{
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .form_col label{
@@ -641,7 +641,7 @@ margin-top: 18px;
 
 .btn_form{
     width: 30%;
-    padding: 16px 0;
+    padding: 20px 0;
     margin-top: 50px;
     border-radius: 10px;
     border: none;
@@ -654,7 +654,7 @@ margin-top: 18px;
 .btn_form a{
     color: #fff;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     transition: color, 200ms ease;
 }
